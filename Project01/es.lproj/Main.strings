@@ -1,0 +1,85 @@
+
+/* Class = "UITextField"; placeholder = "Enter a grade"; ObjectID = "00b-JY-k98"; */
+"00b-JY-k98.placeholder" = "Introduzca un grado";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "43N-cc-76h"; */
+"43N-cc-76h.normalTitle" = "Ayuda";
+
+/* Class = "UIButton"; normalTitle = "Add Grade"; ObjectID = "5sn-aD-ag7"; */
+"5sn-aD-ag7.normalTitle" = "Añadir calificación";
+
+/* Class = "UITabBarItem"; title = "Calculator"; ObjectID = "70L-bd-997"; */
+"70L-bd-997.title" = "Calculadora";
+
+/* Class = "UILabel"; text = "GPA:"; ObjectID = "8u8-gY-SEl"; */
+"8u8-gY-SEl.text" = "GPA:";
+
+/* Class = "UILabel"; text = "Enter grades below:"; ObjectID = "CVU-U4-H9b"; */
+"CVU-U4-H9b.text" = "Ingrese los siguientes grados:";
+
+/* Class = "UIButton"; normalTitle = "MTH"; ObjectID = "F2s-MX-5WI"; */
+"F2s-MX-5WI.normalTitle" = "MTH";
+
+/* Class = "UITabBarItem"; title = "Table view"; ObjectID = "G2s-Tx-Ke4"; */
+"G2s-Tx-Ke4.title" = "Vista de tabla";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "Vbo-dQ-C89"; */
+"Vbo-dQ-C89.text" = "N/A";
+
+/* Class = "UILabel"; text = "Number"; ObjectID = "Y8V-8c-Rp3"; */
+"Y8V-8c-Rp3.text" = "Número";
+
+/* Class = "UILabel"; text = "Grados"; ObjectID = "hib-rY-DzW"; */
+"hib-rY-DzW.text" = "Grades";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "kvU-PV-fgT"; */
+"kvU-PV-fgT.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Add each grade with corresponding number of credits."; ObjectID = "mP4-pa-5bM"; */
+"mP4-pa-5bM.text" = "Agregue cada grado con el número correspondiente de créditos.";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "sPf-CC-9Kn"; */
+"sPf-CC-9Kn.normalTitle" = "Cerrar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "w5r-iF-exa"; */
+"w5r-iF-exa.normalTitle" = "Editar";
+
+/* Class = "UITextField"; placeholder = "Number of credits"; ObjectID = "wa2-iB-pvc"; */
+"wa2-iB-pvc.placeholder" = "Número de créditos";
+
+/* Class = "UIButton"; normalTitle = "CSC"; ObjectID = "zLw-Xz-WVU"; */
+"zLw-Xz-WVU.normalTitle" = "CSC";
+
+/* Class = "UITextField"; placeholder = "Enter a grade"; ObjectID = "00b-JY-k98"; */
+"00b-JY-k98.placeholder" = "Introduzca un grado;
+
+/* Class = "UIButton"; normalTitle = "Add Grade"; ObjectID = "5sn-aD-ag7"; */
+"5sn-aD-ag7.normalTitle" = "Añadir Calificación";
+
+/* Class = "UITabBarItem"; title = "Calculator"; ObjectID = "70L-bd-997"; */
+"70L-bd-997.title" = "Calculadora";
+
+/* Class = "UILabel"; text = "GPA:"; ObjectID = "8u8-gY-SEl"; */
+"8u8-gY-SEl.text" = "GPA:";
+
+/* Class = "UIButton"; normalTitle = "Photo"; ObjectID = "AAf-zL-a0i"; */
+"AAf-zL-a0i.normalTitle" = "Foto";
+
+/* Class = "UILabel"; text = "Enter grades below:"; ObjectID = "CVU-U4-H9b"; */
+"CVU-U4-H9b.text" = "Ingrese calificaciones abajo:";
+
+/* Class = "UIBarButtonItem"; title = "Photo Library"; ObjectID = "MxD-Dj-m8Q"; */
+"MxD-Dj-m8Q.title" = "Biblioteca de fotos";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "Vbo-dQ-C89"; */
+"Vbo-dQ-C89.text" = "N/A";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "YxW-vF-gtV"; */
+"YxW-vF-gtV.normalTitle" = "Reiniciar";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "kvU-PV-fgT"; */
+"kvU-PV-fgT.normalTitle" = "Calcular";
+
+/* Class = "UITextField"; placeholder = "Number of credits"; ObjectID = "wa2-iB-pvc"; */
+"wa2-iB-pvc.placeholder" = "Número de créditos";
+
